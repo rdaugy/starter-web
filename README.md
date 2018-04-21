@@ -10,7 +10,13 @@ This is example to show different parts of the Git repository and various comman
 ## Purpose
 
 Sample website with plenty of files for demos
+BLABLABLA BALABALABAL
+FHIHGIHEIHTUHGUUT
 
 ## Deployment
+
+uhguihgioegjhoiergjhphjprjhr
+eoiughjeuighjrioghjoirhjirohjrkihjirojgiorgnhr
+fuyfhuieghueighuieghueih
 
 ## How To Contribute
